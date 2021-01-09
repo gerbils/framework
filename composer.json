@@ -1,0 +1,11 @@
+{
+    "name": "gerbils/framework",
+    "description": "The core of Gerbils framework",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {}
+}
